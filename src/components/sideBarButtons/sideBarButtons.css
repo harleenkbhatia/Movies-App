@@ -1,0 +1,11 @@
+.sidebar-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+}
+
+.sidebar-button:hover {
+    background-color: rgb(240, 240, 240);
+    cursor: pointer;
+}
