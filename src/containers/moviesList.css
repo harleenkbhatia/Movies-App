@@ -1,0 +1,37 @@
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190617/ourmid/pngtree-colorful-film-shooting-poster-background-material-image_130221.jpg");    
+    background-size: 100% 100%;
+}
+.movie-table-container {
+    width: calc(100vw - 200px);
+    height: calc(100vh - 50px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.movie-search{
+
+    height: 40px;
+    width: calc(100vw - 900px);
+    margin-bottom: 30px;
+    border-radius: 20px;
+    border: 1px solid black;
+    padding-left: 2%;
+    font-size: 20px;
+}
+.filters{
+    display: flex;
+}
+.rating-dropdown{
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    border: 1px solid black;
+    padding-left: 2%;
+    font-size: 20px;
+    margin-left: 20px;
+}
+

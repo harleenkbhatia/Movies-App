@@ -1,0 +1,13 @@
+.navbar-button{
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-flex;
+    align-items: center;
+    height:100%;
+}
+
+.navbar-button:hover{
+    background-color: white;
+    cursor:pointer;
+    transform: scale(1.1);
+}

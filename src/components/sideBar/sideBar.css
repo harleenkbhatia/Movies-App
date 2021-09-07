@@ -1,0 +1,8 @@
+.sidebar {
+    width: 200px;
+    height: calc(100vh - 50px);
+    border-right: 1px solid black;
+    background-color: rgba(255, 255, 255, 0.836);
+    background-image: url("https://i.pinimg.com/originals/74/35/64/743564395ea017c5481abb0e668be49d.gif");
+    background-size: 100% 50%;
+}
